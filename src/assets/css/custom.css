@@ -1,0 +1,7 @@
+/*==========Logo Name Adjesment =============*/
+@media only screen and (max-width: 500px){
+  #mob-logo{
+    font-size: 1.3rem !important;
+    text-align: right !important;
+  }
+}
